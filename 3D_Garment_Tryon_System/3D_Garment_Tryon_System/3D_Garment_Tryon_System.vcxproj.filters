@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Garment">
+      <UniqueIdentifier>{96592ecf-66f1-4dc2-8dfe-ed8921688872}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Body">
+      <UniqueIdentifier>{00b391b1-872a-4fd2-bb0c-4571456cd5e5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Body\h">
+      <UniqueIdentifier>{b8be13e1-0f02-4553-8094-58b95347b8b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Body\cpp">
+      <UniqueIdentifier>{f243c303-2dfb-4990-896f-bd6a55e96aa6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Garment\h">
+      <UniqueIdentifier>{d3e1a87e-a39d-4134-8726-103b2ce979c4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Garment\cpp">
+      <UniqueIdentifier>{7db11d27-ac6f-4742-94f6-32506684da5a}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="ReadMe.txt" />
+    <None Include="res\My3D_Garment_Tryon_System.rc2">
+      <Filter>资源文件</Filter>
+    </None>
+    <None Include="res\3D_Garment_Tryon_System.ico">
+      <Filter>资源文件</Filter>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="3D_Garment_Tryon_System.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="3D_Garment_Tryon_SystemDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="GarmentDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="BodyDlg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Display.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Body.h">
+      <Filter>Body\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Dot.h">
+      <Filter>Body\h</Filter>
+    </ClInclude>
+    <ClInclude Include="BodyPart.h">
+      <Filter>Body\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Cloth.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Velocity.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Force.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Garment.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Mass.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="NetGrid.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Spring.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="Surface.h">
+      <Filter>Garment\h</Filter>
+    </ClInclude>
+    <ClInclude Include="MyMathFormula.h">
+      <Filter>Body</Filter>
+    </ClInclude>
+    <ClInclude Include="EasySize.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="LoadTexture.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="TextureMap.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="3D_Garment_Tryon_System.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="3D_Garment_Tryon_SystemDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="GarmentDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="BodyDlg.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Display.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Body.cpp">
+      <Filter>Body\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Dot.cpp">
+      <Filter>Body\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="BodyPart.cpp">
+      <Filter>Body\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Cloth.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Force.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Garment.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Mass.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="NetGrid.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Spring.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Surface.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="Velocity.cpp">
+      <Filter>Garment\cpp</Filter>
+    </ClCompile>
+    <ClCompile Include="LoadTexture.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="TextureMap.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="3D_Garment_Tryon_System.rc">
+      <Filter>资源文件</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>

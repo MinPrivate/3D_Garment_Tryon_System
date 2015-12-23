@@ -1,0 +1,52 @@
+﻿生成启动时间为 2013/4/11 21:08:27。
+     1>项目“C:\Users\Chengmin\Desktop\3D_Garment_Tryon_System_2_1\3D_Garment_Tryon_System\3D_Garment_Tryon_System.vcxproj”在节点 2 上(build 个目标)。
+     1>InitializeBuildStatus:
+         正在对“Debug\3D_Garment_Tryon_System.unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         所有输出均为最新。
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\3D_Garment_Tryon_System.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt 3D_Garment_Tryon_System.cpp 3D_Garment_Tryon_SystemDlg.cpp BodyDlg.cpp
+         BodyDlg.cpp
+         正在生成代码...
+         正在跳过...(未检测到相关更改)
+         3D_Garment_Tryon_SystemDlg.cpp
+         3D_Garment_Tryon_System.cpp
+       ResourceCompile:
+         所有输出均为最新。
+       ManifestResourceCompile:
+         所有输出均为最新。
+       Link:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Chengmin\Desktop\3D_Garment_Tryon_System_2_1\Debug\3D_Garment_Tryon_System.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\3D_Garment_Tryon_System.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Chengmin\Desktop\3D_Garment_Tryon_System_2_1\Debug\3D_Garment_Tryon_System.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Chengmin\Desktop\3D_Garment_Tryon_System_2_1\Debug\3D_Garment_Tryon_System.lib" /MACHINE:X86 Debug\3D_Garment_Tryon_System.res
+         Debug\3D_Garment_Tryon_System.exe.embed.manifest.res
+         Debug\3D_Garment_Tryon_System.obj
+         Debug\3D_Garment_Tryon_SystemDlg.obj
+         Debug\Body.obj
+         Debug\BodyDlg.obj
+         Debug\BodyPart.obj
+         Debug\Cloth.obj
+         Debug\Display.obj
+         Debug\Dot.obj
+         Debug\Force.obj
+         Debug\Garment.obj
+         Debug\GarmentDlg.obj
+         Debug\LoadTexture.obj
+         Debug\Mass.obj
+         Debug\NetGrid.obj
+         Debug\Spring.obj
+         Debug\stdafx.obj
+         Debug\Surface.obj
+         Debug\TextureMap.obj
+         Debug\Velocity.obj
+       Manifest:
+         C:\Program Files\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\3D_Garment_Tryon_System.exe.embed.manifest" /manifest Debug\3D_Garment_Tryon_System.exe.intermediate.manifest "C:\Program Files\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         所有输出均为最新。
+       LinkEmbedManifest:
+         所有输出均为最新。
+         3D_Garment_Tryon_System.vcxproj -> C:\Users\Chengmin\Desktop\3D_Garment_Tryon_System_2_1\Debug\3D_Garment_Tryon_System.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\3D_Garment_Tryon_System.unsuccessfulbuild”。
+         正在对“Debug\3D_Garment_Tryon_System.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“C:\Users\Chengmin\Desktop\3D_Garment_Tryon_System_2_1\3D_Garment_Tryon_System\3D_Garment_Tryon_System.vcxproj”(build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:04.17

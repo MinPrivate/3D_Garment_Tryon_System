@@ -1,0 +1,42 @@
+newmtl skin
+Ns 34.6408
+Ka 0 0 0
+Kd 0.811765 0.513726 0.435294
+Ks 0.0196078 0.0196078 0.0196078
+map_Kd male nude texture.tif
+newmtl nipples
+Ns 30
+Ka 0 0 0
+Kd 0.576471 0.345098 0.298039
+Ks 0.0235294 0.0235294 0.0235294
+map_Kd male nude texture.tif
+newmtl nails
+Ns 30
+Ka 0 0 0
+Kd 0.615686 0.478431 0.45098
+Ks 0.439994 0.35639 0.308003
+map_Kd male nude texture.tif
+newmtl lips
+Ns 30
+Ka 0 0 0
+Kd 0.623529 0.368627 0.317647
+Ks 0.0588235 0.0588235 0.0588235
+map_Kd male nude texture.tif
+newmtl eyeBall
+Ns 30
+Ka 0 0 0
+Kd 1 0.831373 0.780392
+Ks 0.0980392 0.0980392 0.0980392
+map_Kd male nude texture.tif
+newmtl iris
+Ns 30
+Ka 0 0 0
+Kd 0.552941 0.368627 0.32549
+Ks 0.45098 0.45098 0.45098
+map_Kd male nude texture.tif
+newmtl pupil
+Ns 30
+Ka 0 0 0
+Kd 0.0941176 0.0941176 0.0941176
+Ks 0.121569 0.121569 0.121569
+map_Kd male nude texture.tif
